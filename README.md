@@ -1,7 +1,7 @@
 ### Hi there, I'm Alia 👋
 
 🌱 I am currently enrolled in a 16-week intensive bootcamp by the School of Code, where I will learn all about the front end and the back end of web development. 
-
+🔭 I am commited to the #100DaysofCode challenge. I will update my coding activities here each day. 
 <!--
 **aliafarhana88/aliafarhana88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
