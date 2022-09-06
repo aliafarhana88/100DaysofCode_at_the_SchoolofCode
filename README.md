@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Alia 👋
+
+🌱 I am currently enrolled in a 16-week intensive bootcamp by the School of Code, where I will learn all about the front end and the back end of web development. 
 
 <!--
 **aliafarhana88/aliafarhana88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
