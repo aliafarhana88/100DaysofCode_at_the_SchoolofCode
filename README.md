@@ -16,9 +16,9 @@
 
 <h3>Connect with me </h3>
     <p>
-        <a href="www.linkedin.com/in/aliaabdulghaffar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Alia%20Farhana%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/aliaabdulghaffar" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/aliafarhana88"><img src="https://img.shields.io/badge/-Alia Farhana-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/aliafarhana88" alt="Twitter Badge"></a>
-<a href="https://www.youtube.com/aliafarhana88"><img src="https://img.shields.io/badge/-Alia Farhana-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://www.youtube.com/aliafarhana88" alt="Youtube Badge"></a>
+        <a href="https://linkedin.com/in/aliaabdulghaffar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Alia%20Farhana%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/aliaabdulghaffar" alt="LinkedIn Badge"></a> 
+       <a href="https://twitter.com/aliafarhana88" target="_blank"><img src="https://img.shields.io/badge/-Alia Farhana-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/aliafarhana88" alt="Twitter Badge"></a>
+<a href="https://www.youtube.com/aliafarhana88"target="_blank"><img src="https://img.shields.io/badge/-Alia Farhana-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://www.youtube.com/aliafarhana88" alt="Youtube Badge"></a>
    </p>
    
 #
