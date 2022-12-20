@@ -47,7 +47,7 @@ I'm a full stack web developer, an engineer, and a roboticist
 
 <a href="http://www.github.com/aliafarhana88"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aliafarhana88&bg_color=ffffff&color=000000&line=84cc16&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/aliafarhana88" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliafarhana88&langs_count=10&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/aliafarhana88" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliafarhana88&langs_count=10&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <b>Top Repositories</b>
 
@@ -75,7 +75,7 @@ I'm a full stack web developer, an engineer, and a roboticist
 <a href="https://www.github.com/aliafarhana88" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aliafarhana88?logo=github&style=for-the-badge&color=84cc16&labelColor=ffffff" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliafarhana88&label=Profile%20views&color=84cc1&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliafarhana88&label=Profile%20views&color=lightgrey&style=flat" alt="isrealodejobi" />
 </p>
 
 
