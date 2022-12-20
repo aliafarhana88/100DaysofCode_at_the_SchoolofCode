@@ -37,7 +37,7 @@ I'm a full stack web developer, an engineer, and a roboticist
 
 ### Connect with me
 
-<p align="left"> <a href="https://www.codepen.io/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a><a href="https://www.codepen.io/aliafarhana88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -51,11 +51,12 @@ I'm a full stack web developer, an engineer, and a roboticist
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/aliafarhana88/https://github.com/SchoolOfCode/bc13_w9_project-frontend-let-s-git-on" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=https://github.com/SchoolOfCode/bc13_w9_project-frontend-let-s-git-on&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/aliafarhana88/https://github.com/SchoolOfCode/bc13_w9_project-backend-let-s-git-on" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=https://github.com/SchoolOfCode/bc13_w9_project-backend-let-s-git-on&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/aliafarhana88/SchoolOfCode/bc13_w9_project-frontend-let-s-git-on" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=SchoolOfCode/bc13_w9_project-frontend-let-s-git-on&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/aliafarhana88/SchoolOfCode/bc13_w9_project-backend-let-s-git-on" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=SchoolOfCode/bc13_w9_project-backend-let-s-git-on&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/aliafarhana88/https://github.com/aliafarhana88/React-Hackathon-Advent-Calendar" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=https://github.com/aliafarhana88/React-Hackathon-Advent-Calendar&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/aliafarhana88/https://github.com/aliafarhana88/w12d5_hackathon_react-typescript_weatherapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=https://github.com/aliafarhana88/w12d5_hackathon_react-typescript_weatherapp&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/aliafarhana88/aliafarhana88/React-Hackathon-Advent-Calendar" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=aliafarhana88/React-Hackathon-Advent-Calendar&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/aliafarhana88/aliafarhana88/w12d5_hackathon_react-typescript_weatherapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=aliafarhana88/w12d5_hackathon_react-typescript_weatherapp&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
 #
 <!-- 
@@ -73,7 +74,8 @@ I'm a full stack web developer, an engineer, and a roboticist
 
 <a href="https://www.github.com/aliafarhana88" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aliafarhana88?logo=github&style=for-the-badge&color=84cc16&labelColor=ffffff" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliafarhana88&label=Profile%20views&color=lightgrey&style=flat" alt="isrealodejobi" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliafarhana88&label=Profile%20views&color=84cc1&style=flat" alt="isrealodejobi" />
 </p>
 
 
