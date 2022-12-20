@@ -1,8 +1,12 @@
-<h3>Hi there, I'm Alia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h3>
-===================================================================================================================================
-I am a web developer, an engineer, and a roboticist
----------------------------------------------------
+<!-- <h3>Hi there, I'm Alia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h3> -->
 <!--### Hi there, I'm Alia 👋 -->
+
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Alia
+============================================================================================================================
+
+I'm a full stack web developer, an engineer, and a roboticist
+-------------------------------------------------------------
+
 
 <img align="right" alt="GIF" src="./alia_animatedPixel.svg" width="200" height="220" />
 
