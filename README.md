@@ -51,11 +51,17 @@ I'm a full stack web developer, an engineer, and a roboticist
 
 <b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/SchoolOfCode/bc13_final-project_front-end-refactor" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SchoolOfCode&repo=bc13_final-project_front-end-refactor&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/aliafarhana88/module-and-unit-testing" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=module-and-unit-testing&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+
+<!-- <br /><br /><br /><br /><br /> -->
+
 <div width="100%" align="center"><a href="https://github.com/SchoolOfCode/bc13_w9_project-frontend-let-s-git-on" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SchoolOfCode&repo=bc13_w9_project-frontend-let-s-git-on&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/SchoolOfCode/bc13_w9_project-backend-let-s-git-on" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SchoolOfCode&repo=bc13_w9_project-backend-let-s-git-on&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <!-- <br /><br /><br /><br /><br /> -->
 
 <div width="100%" align="center"><a href="https://github.com/aliafarhana88/React-Hackathon-Advent-Calendar" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=React-Hackathon-Advent-Calendar&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/aliafarhana88/React-Typescript_Hackathon_Weatherapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliafarhana88&repo=React-Typescript_Hackathon_Weatherapp&title_color=ec4899&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+
+<!-- linke to customize readme profile https://www.profileme.dev/create-profile -->
 
 #
 <!-- 
