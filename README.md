@@ -14,7 +14,7 @@ I'm a full stack web developer, an engineer, and a roboticist
 
 🌱 I have completed a 16-week intensive bootcamp by the School of Code, from September 2022 until February 2023, where I was reskilled as a full stack software developer. I learned frontend and backend of web development, and I have worked in multiple collaborative projects and applying agile methods. 
 
-
+⚡ Some of the projects that I have worked on can be viewed in my Top Repositories below. 
 
 ✉️  You can contact me at [alia.abdulghaffar@gmail.com](mailto:alia.abdulghaffar@gmail.com)
 
