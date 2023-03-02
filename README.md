@@ -16,6 +16,8 @@ I'm a full stack web developer, an engineer, and a roboticist
 
 ⚡ Some of the projects that I have worked on can be viewed in my Top Repositories below. 
 
+😄 Fun Fact: The pixel character on the right here is one of the first things that I created using code. It is the very first requirement in my application for the School of Code bootcamp. It is indeed an enjoyable first taste of what it's like to create something with code. It's fun to create my own pixel that represents myself and my emotions, and it is a great reminder of how far I have come.
+
 ✉️  You can contact me at [alia.abdulghaffar@gmail.com](mailto:alia.abdulghaffar@gmail.com)
 
 
