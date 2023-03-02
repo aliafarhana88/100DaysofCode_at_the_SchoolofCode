@@ -10,11 +10,11 @@ I'm a full stack web developer, an engineer, and a roboticist
 
 <img align="right" alt="GIF" src="./alia_animatedPixel.svg" width="200" height="220" />
 
-🌱 I am currently enrolled in a 16-week intensive bootcamp by the School of Code, starting in September 2022 until January 2023, where I will be reskilled as a full stack software developer. I am learning all about frontend and backend of web development mainly in Javascript, Node.js, React, and Typescript.
+🔭 I am an engineer and an aspiring full-stack software developer. I have hands-on experience in JavaScript, Typescript, and JS frameworks/libraries including Node.js, Express.js, React, and Next.js. I also have mastered, among others, PostgreSQL, HTML5, and CSS. I have a comprehensive understanding of databases and server architectures, test-driven development, and agile methodologies
 
-🔭 I am commited to the #100DaysofCode challenge. I will update my coding activities each day. 
+🌱 I have completed a 16-week intensive bootcamp by the School of Code, from September 2022 until February 2023, where I was reskilled as a full stack software developer. I learned frontend and backend of web development, and I have worked in multiple collaborative projects and applying agile methods. 
 
-[Click here to see my progress](https://github.com/aliafarhana88/100-days-of-code/blob/master/log.md)
+
 
 ✉️  You can contact me at [alia.abdulghaffar@gmail.com](mailto:alia.abdulghaffar@gmail.com)
 
